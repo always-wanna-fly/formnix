@@ -1,0 +1,4 @@
+name: phorm
+recipe: lamp
+config:
+  webroot: .
